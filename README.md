@@ -1,5 +1,5 @@
 # houseofdimpho
 ST10516381 Dimpho Flietoor
-##project Overview
+## project Overview
 ...............
-##website goals and objectives
+## website goals and objectives
