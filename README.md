@@ -21,22 +21,19 @@ This page gives the client a platform to ask any question regarding the business
 ### Contact Page
 Shows all our contact information and all our social media platforms
 ## Sitemap
-Site Map
-│
-├── Home
-│
-├── About Us
-│
-├── Enquiries
-│   ├── Booking
-│   └── Enquiries
-│
-├── Services
-│   ├── Braiding
-│   ├── Nails
-│   └── Eyelashes
-│
-└── Contact
+* **Home**
+* **About Us**
+* **Enquiries**
+
+  * Booking
+  * Enquiries
+* **Services**
+
+  * Braiding
+  * Nails
+  * Eyelashes
+* **Contact**
+
 ## Timeline and milestones
 I am currently doing Part1 of my POE and so far I have planned my website and its structure, created the initial HTML pages and added basic website content and images
 ## Technologies used
